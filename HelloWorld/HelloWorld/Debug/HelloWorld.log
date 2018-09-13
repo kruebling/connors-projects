@@ -1,2 +1,4 @@
 ﻿  main.c
+c:\users\keega\desktop\connors-projects\helloworld\helloworld\main.c(13): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\keega\desktop\connors-projects\helloworld\helloworld\main.c(24): warning C4013: 'system' undefined; assuming extern returning int
   HelloWorld.vcxproj -> C:\Users\keega\Desktop\connors-projects\HelloWorld\Debug\HelloWorld.exe
